@@ -12,6 +12,7 @@ An AI-powered Resume Analyzer that compares a resume with a job description and 
 * ❌ Identifies Missing Skills
 * 💡 Suggests Improvements
 
+---
 
 ## 🛠️ Tech Stack
 
@@ -20,6 +21,7 @@ An AI-powered Resume Analyzer that compares a resume with a job description and 
 * Scikit-learn
 * NLP (TF-IDF)
 
+---
 
 ## ▶️ How to Run Locally
 
@@ -51,13 +53,15 @@ streamlit run app.py
 
 ## 🌍 Live Demo
 
-👉 (Add your Streamlit link here after deployment)
+👉 [Click here to try the app](https://ai-resume-analyzer-ejinc8tfhlorlo3mmw2szm.streamlit.app/)
 
+---
 
 ## 📸 Screenshots
 
 (Add screenshots here if you want)
 
+---
 
 ## 👨‍💻 Author
 
